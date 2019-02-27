@@ -1,2 +1,2 @@
-# open-hive-formic-acid-monitoring
-open-hive-formic-acid-monitoring
+# Open Hive Formic Acid Monitoring System
+An approach to monitor the formic acid concentration while varroa treatment.
