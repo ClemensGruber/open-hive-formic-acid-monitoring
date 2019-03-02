@@ -1,7 +1,8 @@
 /*
   Open Hive | Alcohol (MQ-3 sensor)
   2019-02 Clemens Gruber | initial sketch
-
+  2019-02 Clemens Gruber | optimized for serial plotter
+  
   This code is in the public domain.
 */
 
